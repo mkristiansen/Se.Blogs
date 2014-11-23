@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Methods"/>
+	<classpathentry kind="src" path="Objects"/>
+	<classpathentry kind="src" path="Testcases"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/LC40Workspace/Connections_BVT/lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/LC40Workspace/Connections_BVT/lib/selenium-java-client-driver.jar"/>
+	<classpathentry kind="lib" path="C:/LC40Workspace/Connections_BVT/lib/selenium-java-client-driver-sources.jar"/>
+	<classpathentry kind="lib" path="C:/LC40Workspace/Connections_BVT/lib/selenium-server.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

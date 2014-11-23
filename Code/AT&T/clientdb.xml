@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.magnolia.clientmodel:ClientModelRoot xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ibm.magnolia.clientmodel="http:///com/ibm/magnolia/clientmodel.ecore">
+  <workItemEditorHistory>
+    <internalContents date="2011-10-05T13:36:20.177+0100" description="48607: Code checkin" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_8-tJYO9FEeCjd76ySy6DfA"/>
+    </internalContents>
+    <internalContents date="2011-10-03T16:18:45.122+0100" description="48503: for checking in latest code" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_fq-d0O3KEeC3ROY4eY0zjA"/>
+    </internalContents>
+    <internalContents date="2011-09-26T20:21:46.491+0100" description="48108: For checking in latest Files code" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_ukFH4OhrEeC2AJ2UtoowiQ"/>
+    </internalContents>
+    <internalContents date="2011-09-26T17:29:47.916+0100" description="47917: Checking in the latest code" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_H3i3cOUPEeCW-q-oG83fHA"/>
+    </internalContents>
+    <internalContents date="2011-09-20T16:53:24.356+0100" description="47734: Check in for Global Search and some very minor changes to homepage and blogs" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_68-FQOOLEeCW-q-oG83fHA"/>
+    </internalContents>
+    <internalContents date="2011-09-15T16:07:58.819+0100" description="47369: Check in updates to class names and search data" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_UBb1IN-jEeCue_74nDQpvA"/>
+    </internalContents>
+    <internalContents date="2011-09-15T10:32:29.745+0100" description="47325: Updated code for New Level 2 BVT for UI change" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_BTI44N91EeCue_74nDQpvA"/>
+    </internalContents>
+    <internalContents date="2011-09-14T13:26:38.474+0100" description="47245: For Checking in code updates for Blogs, Profiles and Communities" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_XVhs4N7DEeCue_74nDQpvA"/>
+    </internalContents>
+    <internalContents date="2011-09-09T11:20:35.993+0100" description="46966: Update for typeahead to work on FF 6 for communities" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_xdWZMNrEEeC1QNODVFsdcA"/>
+    </internalContents>
+    <internalContents date="2011-09-09T09:54:14.385+0100" description="46957: Checking in update homepage code" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_6URmUNqzEeC1QNODVFsdcA"/>
+    </internalContents>
+    <internalContents date="2011-09-08T09:56:42.459+0100" description="46875: Conor's check in for Communities BVT 2" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_tmfFINnvEeC1QNODVFsdcA"/>
+    </internalContents>
+    <internalContents date="2011-08-31T14:46:39.626+0100" description="46419: Page waiter fixes and tweaks" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_yJCgQNPOEeCykJUjEoNUDQ"/>
+    </internalContents>
+    <internalContents date="2011-08-31T13:57:23.011+0100" description="46415: To check in the Profiles BVT and other fixes" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_xKR2INPHEeCvi7GUJrf8Eg"/>
+    </internalContents>
+    <internalContents date="2011-08-25T11:04:09.437+0100" description="45316: To check in the latest code " repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_-16fIMmUEeCllK7VmsdWMg"/>
+    </internalContents>
+    <internalContents date="2011-08-16T11:35:13.670+0100" description="44978: Checking in New Level 2 BVT" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_5vHzYMdCEeCbf88k3inkCw"/>
+    </internalContents>
+    <internalContents date="2011-08-12T15:29:02.355+0100" description="44864: Latest Selenium updates from Conor" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_q0wZ8MTeEeCTy7NC0X-fAA"/>
+    </internalContents>
+    <internalContents date="2011-08-05T13:25:06.955+0100" description="44417: Latest code checkin for selenium" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_U17FAL9VEeCf_JassHSxQw"/>
+    </internalContents>
+    <internalContents date="2011-08-04T15:20:18.124+0100" description="44216: Checkin updated selenium code" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_JmxmsL5-EeCf_JassHSxQw"/>
+    </internalContents>
+    <internalContents date="2011-07-29T14:48:39.606+0100" description="43923: For Checking in the latest selenium code " repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="_7hoDkLngEeCf_JassHSxQw"/>
+    </internalContents>
+    <internalContents date="2011-07-28T16:39:18.535+0100" description="43847: Checkin Selenium code" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/">
+      <workItem itemId="__nMGcLj-EeCeBMbWsiZKKg"/>
+    </internalContents>
+  </workItemEditorHistory>
+  <queries/>
+  <queryViews>
+    <internalContents name="Default" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/" uuid="_4EWGYGcjEdq9dPcKjjePWA">
+      <columns attribute="workItemType" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="id" sorting="2" sortOrder="1" visible="true" width="-1"/>
+      <columns attribute="internalState" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="internalPriority" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="internalSeverity" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="summary" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="owner" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="creator" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <id xsi:nil="true"/>
+    </internalContents>
+    <internalContents name="all automation work items" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/" uuid="_m8edILnjEeCf_JassHSxQw" id="_HXVV0CbWEd-VV80HWuHIuw">
+      <columns attribute="workItemType" sorting="0" sortOrder="-1" visible="true" width="-1"/>
+      <columns attribute="id" sorting="0" sortOrder="-1" visible="true" width="-1"/>
+      <columns attribute="summary" sorting="0" sortOrder="-1" visible="true" width="-1"/>
+      <columns attribute="owner" sorting="0" sortOrder="-1" visible="true" width="-1"/>
+      <columns attribute="internalState" sorting="0" sortOrder="-1" visible="true" width="-1"/>
+      <columns attribute="internalPriority" sorting="0" sortOrder="-1" visible="true" width="-1"/>
+      <columns attribute="internalSeverity" sorting="0" sortOrder="-1" visible="true" width="-1"/>
+      <columns attribute="modified" sorting="2" sortOrder="1" visible="true" width="-1"/>
+      <columns attribute="target" sorting="1" sortOrder="0" visible="true" width="-1"/>
+    </internalContents>
+    <internalContents name="Default" repository="https://nsjazz.raleigh.ibm.com:8001/jazz/" uuid="_QFSJYLknEeCog8Bt2v05zg" id="com.ibm.magnolia.workItemExplorer.">
+      <columns attribute="workItemType" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="id" sorting="2" sortOrder="1" visible="true" width="-1"/>
+      <columns attribute="internalState" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="internalPriority" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="internalSeverity" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="summary" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="owner" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="creator" sorting="0" sortOrder="0" visible="true" width="-1"/>
+    </internalContents>
+  </queryViews>
+</com.ibm.magnolia.clientmodel:ClientModelRoot>
